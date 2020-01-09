@@ -1,2 +1,5 @@
 Git add
 git commit -m "mensagem"
+git status
+git log
+git push (envia)
