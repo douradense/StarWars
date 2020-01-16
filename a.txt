@@ -1,0 +1,8 @@
+a.txt
+comandos.txt
+Darth.jpg
+Personagens.txt
+planetas.txt
+README.md
+Robos.txt
+vader3.0.jpeg
